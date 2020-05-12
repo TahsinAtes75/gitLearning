@@ -1,9 +1,8 @@
 package tests;
 
-public class Winter {
+public class Practice {
     public static void main(String[] args) {
 
-
-
+        // Hello Tuesday
     }
 }
